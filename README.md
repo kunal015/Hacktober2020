@@ -1,2 +1,2 @@
-# Hacktober2020
+# Hacktoberfest
 #this is the readme
